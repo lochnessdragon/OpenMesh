@@ -1,0 +1,3 @@
+// configuration settings and options for OpenMesh build
+#define OpenMesh_VERSION_MAJOR @OpenMesh_VERSION_MAJOR@
+#define OpenMesh_VERSION_MINOR @OpenMesh_VERSION_MINOR@
